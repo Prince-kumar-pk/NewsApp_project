@@ -70,7 +70,7 @@ export const categories = [
     {
       id: "cnn",
       name: "CNN",
-      pic: "https://bankimooncentre.org/wp-content/uploads/2020/06/cnn-logo-square.png",
+      pic: "https://cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png",
     },
     {
       id: "fox-news",
